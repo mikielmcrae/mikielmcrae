@@ -39,6 +39,6 @@ I also love espresso, animals (especially my dog Georgie), vegan things, gaming,
 -MM
 
 
-[LinkedIn](https://www.linkedin.com/in/mikiel-mcrae-374a80132/) | [Twitter](twitter.com/mikiel96)
+[LinkedIn](https://www.linkedin.com/in/mikiel-mcrae-374a80132/) | [Twitter](https://www.twitter.com/mikiel96)
 
 
