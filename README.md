@@ -31,8 +31,14 @@ My passion is creating software that feels as interactive as possible to users, 
 📱 🏘
 
 
+
 I also love espresso, animals (especially my dog Georgie), vegan things, gaming, Philosophy, history, etymology, mechanical pencils and mechanical keyboards, and a lot of other little things.
 
 ☕️ 💭 🌱 📖 ✏️
 
 -MM
+
+
+[LinkedIn](https://www.linkedin.com/in/mikiel-mcrae-374a80132/) | [Twitter](twitter.com/mikiel96)
+
+
