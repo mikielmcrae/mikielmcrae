@@ -1,14 +1,20 @@
 Developer based in Dublin, IE!
 
+🌱🌱🌱
+
 I love all things software development. I never really felt creative until I learned how to code. My experience is mostly in
 
 -Java, JavaFX
+
 -Python
+
 -SQL
+
 -HTML/CSS/JavaScript
+
 -PHP
 
-I'm currently llooking deeper into game dev with JavaScript, and introducing React into my stack!
+I'm currently looking deeper into game dev with JavaScript, and introducing React into my stack!
 
 My favorite parts of development are that the learning never stops, and the satisfaction of figuring something out never dulls.
 
