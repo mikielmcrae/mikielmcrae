@@ -22,7 +22,7 @@ My favorite parts of development are that the learning never stops, and the sati
 
 🧠 🫀
 
-I'm interested in full-stack development, namely web app design and development, and more recently, game design. I'm also interested in cloud technology,  softwware as a service, and Artificial Intelligence.
+I'm interested in full-stack development, namely web app design and development, and more recently, game design. I'm also interested in cloud technology,  software as a service, and Artificial Intelligence.
 
 💻 🧠 💭 🌐
 
@@ -39,6 +39,6 @@ I also love espresso, animals (especially my dog Georgie), vegan things, gaming,
 -MM
 
 
-[LinkedIn](https://www.linkedin.com/in/mikiel-mcrae-374a80132/) | [Twitter](https://www.twitter.com/mikiel96)
+[LinkedIn](https://www.linkedin.com/in/mikiel-mcrae-374a80132/)
 
 
