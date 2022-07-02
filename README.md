@@ -17,7 +17,7 @@ I love all things software development. I never really felt creative until I lea
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikielmcrae&theme=tokyonight)
 
 
-I love picking up new skills - I'm currently looking deeper into game dev with JavaScript, and introducing React into my stack!
+I love picking up new skills - I'm currently learning to create applications with Spring Boot! 
 
 🎮 💻
 
