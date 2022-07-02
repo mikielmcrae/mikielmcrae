@@ -2,7 +2,7 @@ Developer based in Dublin, IE!
 
 🚀🚀🚀
 
-I love all things software development. I never really felt creative until I learned how to code. My experience is mostly in
+I love all things software development. My experience is mostly in
 
 -Java, JavaFX
 
@@ -17,7 +17,7 @@ I love all things software development. I never really felt creative until I lea
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikielmcrae&theme=tokyonight)
 
 
-I love picking up new skills - I'm currently learning to create applications with Spring Boot! 
+I love picking up new skills - I'm currently learning to create applications with Spring Boot!
 
 🎮 💻
 
@@ -25,7 +25,7 @@ My favorite parts of development are that the learning never stops, and the sati
 
 🧠 🫀
 
-I'm interested in full-stack development, namely web app design and development, and more recently, game design. I'm also interested in cloud technology,  software as a service, AI and ML.
+I'm interested in full-stack development, namely web and desktop app development. One day I would love to learn more about game developement and ML. 
 
 💻 🧠 💭 🌐
 
