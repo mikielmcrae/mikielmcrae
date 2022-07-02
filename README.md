@@ -9,7 +9,7 @@ I love all things software development. My experience is mostly in
 -Python
 
 -SQL
-♨
+
 -HTML/CSS/JavaScript
 
 -PHP
