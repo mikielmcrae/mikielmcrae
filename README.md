@@ -1,6 +1,6 @@
 Developer based in Dublin, IE!
 
-🌱🌱🌱
+🚀🚀🚀
 
 I love all things software development. I never really felt creative until I learned how to code. My experience is mostly in
 
