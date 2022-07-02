@@ -9,7 +9,7 @@ I love all things software development. My experience is mostly in
 -Python
 
 -SQL
-
+♨
 -HTML/CSS/JavaScript
 
 -PHP
@@ -19,7 +19,7 @@ I love all things software development. My experience is mostly in
 
 I love picking up new skills - I'm currently learning to create applications with Spring Boot!
 
-🎮 💻
+🍃 ♨️
 
 My favorite parts of development are that the learning never stops, and the satisfaction of figuring something out never dulls.
 
@@ -27,7 +27,7 @@ My favorite parts of development are that the learning never stops, and the sati
 
 I'm interested in full-stack development, namely web and desktop app development. One day I would love to learn more about game developement and ML. 
 
-💻 🧠 💭 🌐
+🎮 🧠 💭 🌐
 
 My passion is creating software that feels as interactive as possible to users, as if it's conscious. I think empathy for users is what backs the best software. An avid technology user myself, my best user experiences have been those where I forget I'm even interacting with a piece of software, and it just feels like something that should be there.
 
